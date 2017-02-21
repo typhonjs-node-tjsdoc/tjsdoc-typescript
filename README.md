@@ -1,2 +1,2 @@
 # tjsdoc-typescript
-Forthcoming documentation generation for Typescript.
+A forthcoming documentation tool.

@@ -1,0 +1,40 @@
+{
+  "name": "tjsdoc-typescript",
+  "version": "0.0.1",
+  "description": "A forthcoming documentation tool.",
+  "homepage": "https://github.com/typhonjs-node-tjsdoc/tjsdoc-typescript",
+  "license": "MPL-2.0",
+  "author": {
+    "name": "typhonrt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/typhonjs-node-tjsdoc/tjsdoc-typescript.git"
+  },
+  "maintainers": [
+    {
+      "name": "typhonrt",
+      "email": "support@typhonjs.io",
+      "url": "https://github.com/typhonrt"
+    }
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typhonjs-config-eslint": "^0.5.0",
+    "typhonjs-npm-build-test": "^0.4.0"
+  },
+  "scripts": {
+  },
+  "keywords": [
+  ],
+  "files": [
+    "dist",
+    "src",
+    "AUTHORS.md"
+  ],
+  "directories": {},
+  "bugs": {
+    "url": "https://github.com/typhonjs-node-tjsdoc/tjsdoc/issues"
+  }
+}
